@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/jaykit"><img src="https://api.daily.dev/devcards/19aa292a72c745babfe6dde0337829ff.png?r=qak" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>
+<a href="https://app.daily.dev/jaykit"><img src="https://github.com/kietdh/kietdh/blob/main/devcard.svg" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>

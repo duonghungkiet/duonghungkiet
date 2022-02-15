@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <table>
+    <tr>
+      [![KietDH's github stats](https://github-readme-stats.vercel.app/api?username=kietdh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+    </tr>
+    <tr>
+      <a href="https://app.daily.dev/jaykit"><img src="https://github.com/kietdh/kietdh/blob/main/devcard.svg" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>
+    </tr>
+  </table>
+</div>
 
-[![KietDH's github stats](https://github-readme-stats.vercel.app/api?username=kietdh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/jaykit"><img src="https://github.com/kietdh/kietdh/blob/main/devcard.svg" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>
+

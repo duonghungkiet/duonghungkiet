@@ -5,6 +5,7 @@
 <div>
   <table>
     <tr>
+      <td>
       Here are some ideas to get you started:
 
       - 🔭 I’m currently working on ...
@@ -15,9 +16,10 @@
       - 📫 How to reach me: ...
       - 😄 Pronouns: ...
       - ⚡ Fun fact: ...
-    </tr>
-    <tr>
-      <a href="https://app.daily.dev/jaykit"><img src="https://github.com/kietdh/kietdh/blob/main/devcard.svg" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>
+      </td>
+      <td>
+        <a href="https://app.daily.dev/jaykit"><img src="https://github.com/kietdh/kietdh/blob/main/devcard.svg" width="400" alt="Dương Hùng Kiệt's Dev Card"/></a>
+      </td>
     </tr>
   </table>
 </div>
